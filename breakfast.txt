@@ -6,3 +6,5 @@ Coffee
 Yogurt
 Banana
 Compote
+
+Toast
